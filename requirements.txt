@@ -2,3 +2,5 @@ Flask
 tensorflow
 numpy
 pillow
+gunicorn
+
